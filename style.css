@@ -27,6 +27,7 @@ body {
     padding: 10px;
     border: 4px solid green;
     color: green;
+    outline: none;
 }
 
 .input::placeholder {
